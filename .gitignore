@@ -1,0 +1,5 @@
+.DS_Store
+riscv_sim
+*.vcd
+*.fst
+*.log
